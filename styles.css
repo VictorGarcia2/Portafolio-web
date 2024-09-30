@@ -1,3 +1,4 @@
+
 .back {
     background: radial-gradient(at 73.78023223383539% 9.469267241079615%, hsla(230.7692307692308, 94.54545454545455%, 21.568627450980394%, 1) 0%, hsla(230.7692307692308, 94.54545454545455%, 21.568627450980394%, 0) 100%), radial-gradient(at 34.52915983634257% 27.262273874762478%, hsla(180, 38.582677165354326%, 49.80392156862745%, 1) 0%, hsla(180, 38.582677165354326%, 49.80392156862745%, 0) 100%), radial-gradient(at 63.35413629383682% 28.991790629321933%, hsla(277.70491803278685, 86.7298578199052%, 41.372549019607845%, 1) 0%, hsla(277.70491803278685, 86.7298578199052%, 41.372549019607845%, 0) 100%), radial-gradient(at 47.39738998260361% 25.39684380662304%, hsla(230.7692307692308, 94.54545454545455%, 21.568627450980394%, 1) 0%, hsla(230.7692307692308, 94.54545454545455%, 21.568627450980394%, 0) 100%), radial-gradient(at 75.2686241896208% 79.96832997931205%, hsla(180, 38.582677165354326%, 49.80392156862745%, 1) 0%, hsla(180, 38.582677165354326%, 49.80392156862745%, 0) 100%), radial-gradient(at 2.8451452637112906% 49.45633065585944%, hsla(277.70491803278685, 86.7298578199052%, 41.372549019607845%, 1) 0%, hsla(277.70491803278685, 86.7298578199052%, 41.372549019607845%, 0) 100%), radial-gradient(at 86.24599569767322% 33.92408406299021%, hsla(230.7692307692308, 94.54545454545455%, 21.568627450980394%, 1) 0%, hsla(230.7692307692308, 94.54545454545455%, 21.568627450980394%, 0) 100%), radial-gradient(at 19.24462534477449% 65.08968166151845%, hsla(180, 38.582677165354326%, 49.80392156862745%, 1) 0%, hsla(180, 38.582677165354326%, 49.80392156862745%, 0) 100%), radial-gradient(at 78.23067156390924% 37.89907101890848%, hsla(277.70491803278685, 86.7298578199052%, 41.372549019607845%, 1) 0%, hsla(277.70491803278685, 86.7298578199052%, 41.372549019607845%, 0) 100%), radial-gradient(at 99.43511507136998% 62.5854937702081%, hsla(230.7692307692308, 94.54545454545455%, 21.568627450980394%, 1) 0%, hsla(230.7692307692308, 94.54545454545455%, 21.568627450980394%, 0) 100%), radial-gradient(at 93.5741160522419% 3.955491958707258%, hsla(180, 38.582677165354326%, 49.80392156862745%, 1) 0%, hsla(180, 38.582677165354326%, 49.80392156862745%, 0) 100%);
     padding: 80px;
@@ -15,6 +16,13 @@
     margin-bottom: 109px;
     width: 1148px;
     height: 620px;
+}
+p{
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    color: #c0c0c0;
 }
 .head {
     color: white;
@@ -130,6 +138,10 @@ img {
 .acercademi {
     display: flex;
     gap: 100px;
+    
+}
+.acercademi p{
+    color: rgb(0, 0, 0);
 }
 .icons {
     rotate: -2deg;
@@ -187,6 +199,99 @@ img {
     font-size: 16px;
     color: black;
 }
+.section3{
+    height: 800px;
+    padding-top: 100px;
+    background: radial-gradient(at 73.78023223383539% 9.469267241079615%, hsla(230.7692307692308, 94.54545454545455%, 21.568627450980394%, 1) 0%, hsla(230.7692307692308, 94.54545454545455%, 21.568627450980394%, 0) 100%), radial-gradient(at 34.52915983634257% 27.262273874762478%, hsla(180, 38.582677165354326%, 49.80392156862745%, 1) 0%, hsla(180, 38.582677165354326%, 49.80392156862745%, 0) 100%), radial-gradient(at 63.35413629383682% 28.991790629321933%, hsla(277.70491803278685, 86.7298578199052%, 41.372549019607845%, 1) 0%, hsla(277.70491803278685, 86.7298578199052%, 41.372549019607845%, 0) 100%), radial-gradient(at 47.39738998260361% 25.39684380662304%, hsla(230.7692307692308, 94.54545454545455%, 21.568627450980394%, 1) 0%, hsla(230.7692307692308, 94.54545454545455%, 21.568627450980394%, 0) 100%), radial-gradient(at 75.2686241896208% 79.96832997931205%, hsla(180, 38.582677165354326%, 49.80392156862745%, 1) 0%, hsla(180, 38.582677165354326%, 49.80392156862745%, 0) 100%), radial-gradient(at 2.8451452637112906% 49.45633065585944%, hsla(277.70491803278685, 86.7298578199052%, 41.372549019607845%, 1) 0%, hsla(277.70491803278685, 86.7298578199052%, 41.372549019607845%, 0) 100%), radial-gradient(at 86.24599569767322% 33.92408406299021%, hsla(230.7692307692308, 94.54545454545455%, 21.568627450980394%, 1) 0%, hsla(230.7692307692308, 94.54545454545455%, 21.568627450980394%, 0) 100%), radial-gradient(at 19.24462534477449% 65.08968166151845%, hsla(180, 38.582677165354326%, 49.80392156862745%, 1) 0%, hsla(180, 38.582677165354326%, 49.80392156862745%, 0) 100%), radial-gradient(at 78.23067156390924% 37.89907101890848%, hsla(277.70491803278685, 86.7298578199052%, 41.372549019607845%, 1) 0%, hsla(277.70491803278685, 86.7298578199052%, 41.372549019607845%, 0) 100%), radial-gradient(at 99.43511507136998% 62.5854937702081%, hsla(230.7692307692308, 94.54545454545455%, 21.568627450980394%, 1) 0%, hsla(230.7692307692308, 94.54545454545455%, 21.568627450980394%, 0) 100%), radial-gradient(at 93.5741160522419% 3.955491958707258%, hsla(180, 38.582677165354326%, 49.80392156862745%, 1) 0%, hsla(180, 38.582677165354326%, 49.80392156862745%, 0) 100%);
+}
+.skills-duras{
+    
+    margin-left: 457px;
+}
+.skills-blandas{
+    margin-left: 1076px;
+    margin-top: -430px;
+}
+.skills{
+    padding-top: 20px;
+    color: #ffffff;
+
+}
+.progress-bar{
+    width: 320px;
+    background-color: #e0e0e0;
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    
+}
+.progress-ps{
+    width: 300px;
+    background-color: #DE7326;
+    height: 10px;
+    border-radius: 20px;
+    transition: width 0.3s ease;
+    -webkit-transition: width 0.3s ease;
+    -moz-transition: width 0.3s ease;
+    -ms-transition: width 0.3s ease;
+    -o-transition: width 0.3s ease;
+}
+.progress-vs{
+    width: 290px;
+    background-color: #DE7326;
+    height: 10px;
+    border-radius: 20px;
+    transition: width 0.3s ease;
+    -webkit-transition: width 0.3s ease;
+    -moz-transition: width 0.3s ease;
+    -ms-transition: width 0.3s ease;
+    -o-transition: width 0.3s ease;
+}
+.progress-wp{
+    width: 310px;
+    background-color: #DE7326;
+    height: 10px;
+    border-radius: 20px;
+    transition: width 0.3s ease;
+    -webkit-transition: width 0.3s ease;
+    -moz-transition: width 0.3s ease;
+    -ms-transition: width 0.3s ease;
+    -o-transition: width 0.3s ease;
+}
+.progress-elm{
+    width: 310px;
+    background-color: #DE7326;
+    height: 10px;
+    border-radius: 20px;
+    transition: width 0.3s ease;
+    -webkit-transition: width 0.3s ease;
+    -moz-transition: width 0.3s ease;
+    -ms-transition: width 0.3s ease;
+    -o-transition: width 0.3s ease;
+}
+  /* Estilo de la barra de progreso */
+  .progress {
+    width: 290px;
+    background-color: #DE7326;
+    height: 10px;
+    border-radius: 20px;
+    transition: width 0.3s ease;
+    
+    -webkit-transition: width 0.3s ease;
+    -moz-transition: width 0.3s ease;
+    -ms-transition: width 0.3s ease;
+    -o-transition: width 0.3s ease;
+}
+.skills-duras h1{
+    color: white;
+}
+  
+  
+  
 @media only screen and (max-width: 430px) {
     .cuerpo {
         background: rgba(255, 255, 255, 0.15);
