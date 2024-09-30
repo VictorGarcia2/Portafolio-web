@@ -1,0 +1,188 @@
+
+.back{
+     background: radial-gradient(at 73.78023223383539% 9.469267241079615%, hsla(230.7692307692308, 94.54545454545455%, 21.568627450980394%, 1) 0%, hsla(230.7692307692308, 94.54545454545455%, 21.568627450980394%, 0) 100%), radial-gradient(at 34.52915983634257% 27.262273874762478%, hsla(180, 38.582677165354326%, 49.80392156862745%, 1) 0%, hsla(180, 38.582677165354326%, 49.80392156862745%, 0) 100%), radial-gradient(at 63.35413629383682% 28.991790629321933%, hsla(277.70491803278685, 86.7298578199052%, 41.372549019607845%, 1) 0%, hsla(277.70491803278685, 86.7298578199052%, 41.372549019607845%, 0) 100%), radial-gradient(at 47.39738998260361% 25.39684380662304%, hsla(230.7692307692308, 94.54545454545455%, 21.568627450980394%, 1) 0%, hsla(230.7692307692308, 94.54545454545455%, 21.568627450980394%, 0) 100%), radial-gradient(at 75.2686241896208% 79.96832997931205%, hsla(180, 38.582677165354326%, 49.80392156862745%, 1) 0%, hsla(180, 38.582677165354326%, 49.80392156862745%, 0) 100%), radial-gradient(at 2.8451452637112906% 49.45633065585944%, hsla(277.70491803278685, 86.7298578199052%, 41.372549019607845%, 1) 0%, hsla(277.70491803278685, 86.7298578199052%, 41.372549019607845%, 0) 100%), radial-gradient(at 86.24599569767322% 33.92408406299021%, hsla(230.7692307692308, 94.54545454545455%, 21.568627450980394%, 1) 0%, hsla(230.7692307692308, 94.54545454545455%, 21.568627450980394%, 0) 100%), radial-gradient(at 19.24462534477449% 65.08968166151845%, hsla(180, 38.582677165354326%, 49.80392156862745%, 1) 0%, hsla(180, 38.582677165354326%, 49.80392156862745%, 0) 100%), radial-gradient(at 78.23067156390924% 37.89907101890848%, hsla(277.70491803278685, 86.7298578199052%, 41.372549019607845%, 1) 0%, hsla(277.70491803278685, 86.7298578199052%, 41.372549019607845%, 0) 100%), radial-gradient(at 99.43511507136998% 62.5854937702081%, hsla(230.7692307692308, 94.54545454545455%, 21.568627450980394%, 1) 0%, hsla(230.7692307692308, 94.54545454545455%, 21.568627450980394%, 0) 100%), radial-gradient(at 93.5741160522419% 3.955491958707258%, hsla(180, 38.582677165354326%, 49.80392156862745%, 1) 0%, hsla(180, 38.582677165354326%, 49.80392156862745%, 0) 100%);
+     padding: 80px;
+     margin: 0 auto;
+}
+
+.cuerpo {
+    background: rgba(255, 255, 255, 0.15);
+    box-shadow: 0 8px 32px 0 rgba(121, 121, 133, 0.37);
+    backdrop-filter: blur(3px);
+    -webkit-backdrop-filter: blur(3px);
+    border-radius: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.603);
+    margin: 0 auto;
+    margin-top: 109px;
+    margin-bottom: 109px;
+    width: 1148px;
+    height: 620px;
+    
+}
+
+.head {
+    color: white;
+    width: 690px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 17px;
+    margin-left: 370px;
+    display: flex;
+    gap: 100px;
+    margin-top: -50px;
+}
+
+.head p {
+
+    margin-top: 100px;
+
+}
+
+.izquierda {
+    margin-left: 90px;
+    width: 200px;
+}
+
+h1 {
+    width: 500px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 64px;
+    line-height: 1.2;
+}
+
+h2 {
+    margin-top: -60px;
+    width: 390px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 16px;
+    color: white;
+}
+
+.abraham {
+    color: #DE7326;
+}
+
+.jus {
+    margin-top: 40px;
+    display: flex;
+    gap: 100px;
+}
+
+img {
+    width: 700px;
+
+}
+
+.eclipse {
+    position: fixed;
+    width: 600px;
+    margin-left: 80px;
+    margin-top: 150px;
+}
+
+.experiencia {
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 12px;
+
+    text-align: center;
+    color: rgb(255, 255, 255);
+    margin-left: 460px;
+    margin-top: -90px;
+    width: 110px;
+    border-style: groove;
+    border-width: 1px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+
+.section2{
+    width: 970px;
+    margin: auto;
+    padding: 100px;
+    background:radial-gradient(at 63.897428656118336% 2.1621973151393914%, hsla(198.00000000000003, 100%, 92.15686274509804%, 1) 0%, hsla(198.00000000000003, 100%, 92.15686274509804%, 0) 100%), radial-gradient(at 67.20125495169921% 75.66595958458151%, hsla(35.62499999999998, 20%, 68.62745098039215%, 1) 0%, hsla(35.62499999999998, 20%, 68.62745098039215%, 0) 100%), radial-gradient(at 3.9269843966381335% 36.283352471281695%, hsla(201.81818181818184, 59.139784946236574%, 81.76470588235294%, 1) 0%, hsla(201.81818181818184, 59.139784946236574%, 81.76470588235294%, 0) 100%);
+    
+}
+.section2 .acercademi p{
+    width: 470px;
+    
+}
+
+.section2 img{
+    width: 400px;
+}
+.acercademi{
+    display: flex;
+    gap: 100px;
+}
+
+
+@media only screen and (max-width: 430px) {
+    .cuerpo {
+        background: rgba(255, 255, 255, 0.15);
+        box-shadow: 0 8px 32px 0 rgba(121, 121, 133, 0.37);
+        backdrop-filter: blur(3px);
+        -webkit-backdrop-filter: blur(3px);
+        border-radius: 10px;
+        border: 1px solid rgba(255, 255, 255, 0.603);
+        margin-right: 142px;
+        margin-left: 142px;
+        margin-top: 109px;
+        margin-bottom: 109px;
+        width: 308px;
+        height: 800px;
+
+    }
+
+    .izquierda {
+        margin-left: 10px;
+        width: 200px;
+        height: 300px;
+
+    }
+
+    h1 {
+
+        font-family: "Poppins", sans-serif;
+        font-weight: 600;
+        font-style: normal;
+        font-size: 15px;
+        margin-top: 10px;
+    }
+
+    h2 {
+
+        font-family: "Poppins", sans-serif;
+        font-weight: 600;
+        font-style: normal;
+        font-size: 12px;
+        margin-top: 10px;
+        width: 300px;
+
+    }
+
+
+
+    img {
+        width: 200px;
+        margin-left: -290px;
+        margin-top: -200px;
+        padding: auto;
+    }
+
+    .jus {
+        margin-top: 40px;
+        gap: 100px;
+        margin-left: 10px;
+    }
+
+}
