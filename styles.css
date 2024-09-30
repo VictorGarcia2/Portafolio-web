@@ -106,19 +106,42 @@ img {
 }
 
 .section2{
-    width: 970px;
-    margin: auto;
+    height: 500px;
     padding: 100px;
     background:radial-gradient(at 63.897428656118336% 2.1621973151393914%, hsla(198.00000000000003, 100%, 92.15686274509804%, 1) 0%, hsla(198.00000000000003, 100%, 92.15686274509804%, 0) 100%), radial-gradient(at 67.20125495169921% 75.66595958458151%, hsla(35.62499999999998, 20%, 68.62745098039215%, 1) 0%, hsla(35.62499999999998, 20%, 68.62745098039215%, 0) 100%), radial-gradient(at 3.9269843966381335% 36.283352471281695%, hsla(201.81818181818184, 59.139784946236574%, 81.76470588235294%, 1) 0%, hsla(201.81818181818184, 59.139784946236574%, 81.76470588235294%, 0) 100%);
     
 }
 .section2 .acercademi p{
     width: 470px;
-    
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 12px;font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+
+    background: rgba(255, 255, 255, 0.15);
+    box-shadow: 0 8px 32px 0 rgba(121, 121, 133, 0.37);
+    backdrop-filter: blur(3px);
+    -webkit-backdrop-filter: blur(3px);
+    border-radius: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.603);
+    padding: 20px;
+}
+
+.about{
+    margin-left: 350px;
 }
 
 .section2 img{
     width: 400px;
+    margin-top: -100px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
 }
 .acercademi{
     display: flex;
